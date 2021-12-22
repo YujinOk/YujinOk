@@ -1,5 +1,5 @@
-### Hi there 👋
-
+#### Hi I am Yujin 👋  I love making projects and practicing codewars! 
+![codewars](https://www.codewars.com/users/YujinOk/badges/micro)
 <!--
 **YujinOk/YujinOk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
